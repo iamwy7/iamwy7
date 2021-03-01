@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **wy7-source/wy7-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello there, I'm Wythor - aka wy7 👋
+
+## I'm a Student, Musician and Developer!
+
+- 🏬 I’m currently working on [JJ Consulting][jj] as .Net Developer
+- 🔭 I'm in the 7th Semester of Computer Science.
+- 🌱 I'm currently doing [Fullcycle 2.0][fullcycle] training
+- 💪🏼 I'm looking to learn more in the entire DevOps process and Software Architecture
+- 📒 2021 Goals: Finish my graduation and Fullcycle training, and improve my English
+- ⚡ Fun fact: I love playing at events 🥁 and weddings 🎺
+
+### Languages and Tools 🚀 :
+
+- Backend: .NET Core and Go Lang.
+- Frontend: Bootstrap and React.js.
+- Tests: nUnit and GoTests.
+- Versioning: Github.
+- Queues / Stream / Resilient Communication: RabbitMQ, Apache Kafka.
+- SQL: SQL Server and PostgresSQL.
+- NoSQL: MongoDB.
+- Monitoring: Prometheus c/ Grafana and ELK.
+- Dev and Deploy infrastructure: Docker and Kubernetes.
+<br />
+<br />
+
+### Soft Skills ⚓:
+- Methodology: Scrum / Agile.
+- Culture: FullCycle or DevOps and implementing TDD.
+- Code design: MVC and Clean Architecture.
+- Architectures: N-Tier and Microservices. 
+
+
+### 📫 How to reach me: ...:
+You can find more about me on my [Linkedin][linkedin] 👨‍💻
+
+[dotnet]: https://dotnet.microsoft.com/learn/aspnet/what-is-aspnet-core
+[fullcycle]: https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA
+[golang]: https://golang.org/
+[reactjs]: https://reactjs.org/
+[sqlserver]: https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
+[linkedin]: https://linkedin.com/in/wythor-b-5910b315b/
+[mongobd]: https://www.mongodb.com/what-is-mongodb
+[jj]: https://www.jjconsulting.com.br/
