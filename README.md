@@ -47,11 +47,6 @@ Here are some ideas to get you started:
 ### 📫 How to reach me: ...:
 You can find more about me on my [Linkedin][linkedin] 👨‍💻
 
-[dotnet]: https://dotnet.microsoft.com/learn/aspnet/what-is-aspnet-core
 [fullcycle]: https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA
-[golang]: https://golang.org/
-[reactjs]: https://reactjs.org/
-[sqlserver]: https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
 [linkedin]: https://linkedin.com/in/wythor-b-5910b315b/
-[mongobd]: https://www.mongodb.com/what-is-mongodb
 [jj]: https://www.jjconsulting.com.br/
