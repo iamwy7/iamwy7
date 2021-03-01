@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 - Monitoring: Prometheus c/ Grafana and ELK.
 - Dev and Deploy infrastructure: Docker and Kubernetes.
 <br />
-<br />
 
 ### Soft Skills ⚓:
 - Methodology: Scrum / Agile.
