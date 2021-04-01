@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Languages and Tools 🚀 :
 
 - Backend: .NET Core and Go Lang.
-- Frontend: Bootstrap and React.js.
+- Frontend: Angular and React.js.
 - Tests: nUnit and GoTests.
 - Versioning: Github.
 - Queues / Stream / Resilient Communication: RabbitMQ, Apache Kafka.
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - NoSQL: MongoDB.
 - Monitoring: Prometheus c/ Grafana and ELK.
 - Dev and Deploy infrastructure: Docker and Kubernetes.
+- Cloud Providers: Azure DevOps.
 <br />
 
 ### Soft Skills ⚓:
