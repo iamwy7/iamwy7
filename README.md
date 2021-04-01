@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm a Student, Musician and Developer!
 
-- 🏬 I’m currently working on [JJ Consulting][jj] as .Net Developer
+- 🏬 I’m currently working on [Smarkets][sm] as Fullstack Developer ( using .Net Core and Angular).
 - 🔭 I'm in the 7th Semester of Computer Science.
 - 🌱 I'm currently doing [Fullcycle 2.0][fullcycle] training
 - 💪🏼 I'm looking to learn more in the entire DevOps process and Software Architecture
@@ -49,4 +49,4 @@ You can find more about me on my [Linkedin][linkedin] 👨‍💻
 
 [fullcycle]: https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA
 [linkedin]: https://linkedin.com/in/wythor-b-5910b315b/
-[jj]: https://www.jjconsulting.com.br/
+[sm]: https://www.smarkets.com.br/
