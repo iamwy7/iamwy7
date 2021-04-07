@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 ### Languages and Tools 🚀 :
 
 - Backend: .NET Core and Go Lang.
-- Frontend: Angular and React.js.
+- Frontend: React.js and learning Angular.
 - Tests: nUnit and GoTests.
 - Versioning: Github.
 - Queues / Stream / Resilient Communication: RabbitMQ, Apache Kafka.
-- SQL: SQL Server and PostgresSQL.
+- SQL: SQL Server.
 - NoSQL: MongoDB.
-- Monitoring: Prometheus c/ Grafana and ELK.
+- Monitoring: Prometheus + Grafana and ELK.
 - Dev and Deploy infrastructure: Docker and Kubernetes.
 - Cloud Providers: Azure DevOps.
 <br />
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - Methodology: Scrum / Agile.
 - Culture: FullCycle or DevOps and implementing TDD.
 - Code design: MVC and Clean Architecture.
-- Architectures: N-Tier and Microservices. 
+- Solution Architectures: N-Tier and Microservices. 
 
 
 ### 📫 How to reach me: ...:
