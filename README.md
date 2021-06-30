@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - I use to think first in "why do it?", than "how do it?".
 - Im result driven since i worked on McDonald's :)
 - I appreciate the organization of my things and my code.
+- I love working as a team, and feeling part of something bigger. 
 - I respond quickly in severe cases. Like a firefighter. First we put out the fire, then we study the cause, and we set up/execute a strategy so that it doesn't happen again. 
 - Im always open to new technologies and possibilities, as long as there is a technical and empirical basis, because I'll also have it haha :D
 - Im always studying new techniques and technologies, so that as soon as necessary, I can present them and, if feasible, implement them. 
