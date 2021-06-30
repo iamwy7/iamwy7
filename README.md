@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm a Student, Musician and Developer!
 
-- 🏬 I’m currently working on [Smarkets][sm] as Fullstack Developer ( using .Net Core and Angular).
+- 🏬 I’m currently working on [Smarkets][sm] as Fullstack Developer (migrating to backend software engineer) ( using .Net Core and Angular).
 - 🔭 I'm in the 8th Semester of Computer Science on UNINOVE (my last semester!!! thanks god)
 - 🌱 I'm currently doing [Fullcycle 2.0][fullcycle] training
 - 💪🏼 I'm looking to learn more in the entire DevOps process and Software Architecture
