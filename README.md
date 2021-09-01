@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📒 2021 Goals: Finish my graduation and Fullcycle training, and improve my Golang experience.
 - ⚡ Fun fact: I love playing at events 🥁 and weddings 🎺
 
-### Soft Skills 💻 :
+### Soft Skills :
 - Continuous Learning.
 - Flexible and Resilient.
 - Team work.
