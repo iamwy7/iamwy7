@@ -62,4 +62,4 @@ You can find more about me on my [Linkedin][linkedin] 👨‍💻
 
 [fullcycle]: https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA
 [linkedin]: https://linkedin.com/in/wythor-b-5910b315b/
-[it]: https://iti.itau/
+[iti]: https://iti.itau/
