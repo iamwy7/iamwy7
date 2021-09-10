@@ -1,20 +1,13 @@
-<!--
-**wy7-source/wy7-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### Hello there, I'm Wythor - aka wy7 👋
+ 
+ <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hello there, I'm Wythor - aka wy7 👋
-
+ <div>
+  <a href="https://github.com/wy7-source">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wy7-source&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wy7-source&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  
 ## I'm a Student, Musician and Developer!
 
 - 🏬 I’m currently working on [Iti Itaú Unibanco][iti] as Backend Software Engineer.
@@ -41,8 +34,8 @@ I've separated in three parts:
   - Code Design: MVC and Clean Architecture.
   - Solution Architectures: N-Tier and Microservices / Distributed solutions.
 - Development:
-  - Backend: .NET Core and Go Lang.
-  - Frontend: React.js and learning Angular.
+  - Backend: .NET Core, Go Lang and learning Kotlin.
+  - Frontend: React.js.
   - Tests: nUnit and Go Test.
   - Versioning: Github/VSTS with Gitflow, Semantic Versioning and Conventional Commits.
   - Queues / Stream / Resilient Communication: RabbitMQ, Apache Kafka.
