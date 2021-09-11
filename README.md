@@ -1,4 +1,4 @@
- ### Hello there, I'm Wythor - aka wy7 👋
+ ### Hello there, I'm Wythor - aka wythxr 👋
  
  <br>
 
