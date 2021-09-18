@@ -4,8 +4,8 @@
 
  <div>
   <a href="https://github.com/wy7-source">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wy7-source&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wy7-source&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wythxr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wythxr&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 ## I'm a Student, Musician and Developer!
