@@ -10,13 +10,14 @@
   
 ## I'm a Student, Musician and Developer!
 
-- 🏬 I’m currently working on [Iti Itaú Unibanco][iti] as Backend Software Engineer.
-- 🌱 I'm currently doing [Fullcycle 3.0][fullcycle] training
-- 💪🏼 I'm looking to learn more in the entire DevOps process and Software Architecture
-- 📒 2022 Goals: Finish my Fullcycle training, and improve my Golang experience.
-- ⚡ Fun fact: I love playing at events 🥁 and weddings 🎺
+- 🏬 I'm currently working at Banco Itaú as a Junior Backend Software Engineer
+- 🔭 I'm starting a specialization in Software Engineering at FIAP this year
+- 🌱 I'm currently doing Fullcycle 3.0 training by Code.Education
+- 💪🏼 I'm improving my skills and techniques with Golang and Spring framework
+- 📒 2023 Goals: Finish my specialization and take care of my health
+- ⚡ Fun fact: I cover events like weddings, if you need a wedding march call me :) 🎺
 
-You can find more about me on my [Linkedin][linkedin] 👨‍💻
+You can find more about my work experiences on my [Linkedin][linkedin] 👨‍💻
 
 [fullcycle]: https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA
 [linkedin]: https://linkedin.com/in/wythor-b-5910b315b/
