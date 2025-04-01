@@ -16,7 +16,7 @@ Good to see you 👋
  - 🔭 I just finished my MBA in Software Engineering at FIAP
  - 🌱 I want to improve my English this year (speaking and some other things)
  - 💪🏼 Always studying Spring framework with Kotlin and Golang
- - 📒 Goals for 2024: Find a better challenge than the other and take care of my health
+ - 📒 Goals for 2025: Find a better challenge than the other and take care of my health
  - ⚡ Fun facts: I cover events like weddings, if you need a wedding march, call me :) 🎺
  
 If you want to know more about my work, a loooooot of my codes are private within the company's repositories, but i still have some codes here.
