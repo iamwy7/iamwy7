@@ -12,7 +12,7 @@
 
 Good to see you 👋
 
- - 🏬 I'm currently working at Itaú Bank as a Junior Backend Software Engineer for almost 3 years.
+ - 🏬 Im free right now, but my last job was at Itaú Bank as a Junior Backend Software Engineer for 3 years.
  - 🔭 I just finished my MBA in Software Engineering at FIAP
  - 🌱 I want to improve my English this year (speaking and some other things)
  - 💪🏼 Always studying Spring framework with Kotlin and Golang
@@ -24,4 +24,3 @@ If you want to know more about my work, a loooooot of my codes are private withi
 You can find more about my work experiences on my [Linkedin][linkedin] 👨‍💻
 
 [linkedin]: https://linkedin.com/in/wythor
-[iti]: https://iti.itau/
