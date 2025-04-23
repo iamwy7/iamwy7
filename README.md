@@ -10,7 +10,7 @@
   
 ## I'm a Student, Musician and Developer! 
 
-Good to see you 👋
+Good to see you here, more about me:
 
  - 🏬 Im free right now, but my last job was at Itaú Bank as a Junior Backend Software Engineer for 3 years.
  - 🔭 I just finished my MBA in Software Engineering at FIAP
