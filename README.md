@@ -1,4 +1,4 @@
- ### Hello there, my name is Wythor - aka Vitor 👋
+ ### Hello there, my name is Wythor 👋
  
  <br>
 
